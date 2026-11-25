@@ -17,7 +17,6 @@ public class at02 {
      System.out.println("Digite a segunda nota: "); // Ele exibe tudo que esta dentro das aspas. funciona como um escreva/escreval
     n2 = ler.nextDouble(); // já o next double funciona para apenas números reais e exibe eles com maior precisão. / O float so simplifica o resultado. construção ->(variavel = ler.nextFloat(); )
     System.out.println("a media é igual a: " + media); // Ele exibe tudo que esta dentro das aspas. funciona como um escreva/escreval. o "+" é o complemento de exibição ou seja, ele exibe a variavel pois o texto
-    
     }
     
 }
