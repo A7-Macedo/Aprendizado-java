@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class at04 {
+public class exibirNumero {
     
 public static void main(String[] args) {
     

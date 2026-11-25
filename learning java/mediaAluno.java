@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class at05 {
+public class mediaAluno {
 
     public static void main(String[] args) {
         

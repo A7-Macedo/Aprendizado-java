@@ -1,4 +1,4 @@
-public class at03 {
+public class exibirAlgo {
         
     public static void main(String[] args) {
         
